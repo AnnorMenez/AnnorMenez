@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnnorMenez
-- 👀 I’m interested in coding and software development
-- 🌱 I’m currently learning wweb development
-- 💞️ I’m looking to collaborate on google
+- 👋 Hi, I’m @AnnorMenez.
+- 👀 I’m interested in coding and software development.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on js and node.js
 - 📫 How to reach me on annormenez@gmail.com
 - 😄 Pronouns: I am He
 - ⚡ Fun fact: ready to learn 
